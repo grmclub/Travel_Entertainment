@@ -1,6 +1,6 @@
 
 https://www.seriouseats.com/cocktail-party-snacks
-
+https://www.allrecipes.com/article/classic-cocktail-party-appetizers/
 --------------------------------------------------------------------------------------
 
 **##Cocktail Foods**
