@@ -13,6 +13,7 @@
 - liver fry
 - maguro sashi
 - memma
+- bacon steak
 - tori karaage
 - buri sashi
 - ika soumen
