@@ -10,7 +10,7 @@
 - ham
 - sardines
 - Jalapino Fritto
-- Chicken Ribs
+- Chicken Wings
 - Margarita pizza
 
 --------------------------------------------------------------------------------------
