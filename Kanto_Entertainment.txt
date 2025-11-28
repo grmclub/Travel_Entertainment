@@ -54,7 +54,7 @@ Beer Pong Bar GROVE Kinshicho
 --------------------------------------------------------------------------------------
 #Kameido
 
-Grandpas
+Grandpas  /         https://www.grandpa-fish-chips.com/menu/
 Nikohana / ニコハナ // https://cafebarnikohana.tumblr.com/
 La Tequila
 Shot Bar Afrobeat Kameido シヨットバーアフロビート亀戸店
@@ -89,7 +89,7 @@ Marugin
 Ibrew
 Delirium cafe -ginza
 Isakado Shimbashi
-
+Lupin
 
 --------------------------------------------------------------------------------------
 ##Ueno/Akihabara/Asakusa
