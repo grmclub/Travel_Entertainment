@@ -1,0 +1,123 @@
+
+-------------------------------------------------------------
+実装             |   じっそう               |  implementation          
+設計             |   せっけい-             | design/architecture       
+テスト             |   –                  |   test                 
+体験版            |    たいけんばん          |  trial version of software        
+ベータ版　          |   ばん                |   beta version of software            
+技術              |   ぎじゅつ              |  technology            
+機能              |   きのう               |  function            
+ソフト              |   short for ソフトウ    |  software
+開発              |  かいはつ              |   development              
+開発者            |  かいはつしゃ            |   developer        
+開発環境          |  かいはつかんきょう         |  development environment         
+利用者            |   りようしゃ             |   user             
+データベース　        |   -                  |  database               
+構造              |  こうぞう               |  structure           
+管理              |  かんり                |  manage a system,etc.          
+納品              |  のうひん             | delivery            
+残業              |  ざんぎょう             |  overtime           
+入門              |  にゅうもん            | primer when you begin learning something             
+設定              |  せってい              |  settings           
+コンピュータ          |                      |  computer / ???? PC                  
+コンピューター言語      |  げんご                |  programming language C,C++,Java, etc.          
+作成              |  さくせい               |  compose/create a list, an email, a game, etc.           
+プログラミング         |  –                  | programming                
+起動              |  きどう                | startup a computer,etc.          
+再起動            |  さいきどう              | restart a computer, etc.           
+画面              |  がめん                | screen            
+企画              |  きかく                | project, plan, planning          
+企画書            |  きかくしょ              | project plan document     
+プロジェクト          |  –                   | project       
+出力              |  しゅつりょく             | output     
+ファイル             |  –                  | file         
+デバッグ            |  –                   | debug       
+解説書　          | かいせつしょ              | manual a book or other document that describes how something works            
+依存性            |  いぞんせい             | dependency a DLL, library, etc.      
+実行　            |  じっこう               | run/execute    
+コンパイル           |  –                   | compile       
+関数　            |  かんすう               | function i.e. void doStuffint x   
+引数　            |  ひきすう               | argument, parameter of a function   
+配列　            |  はいれつ             | array like my_array[30]    
+形式　            |  けいしき               | format of a file, etc.   
+拡張子　           | かくちょうし            | file extension     
+担当者　           | たんとうしゃ             | person in charge of something a project, etc.    
+見積もり　          | みつもり              | an estimate for a project’s cost, etc.    
+改善　            | かいぜん                | improvement  
+情報　            | じょうほう               | information    
+条件              | じょうけん               | condition  
+規模　            | きぼ                  | scale of a project or plan 
+仕様書　          | しようしょ                | specifications document 
+保守             | ほしゅ                  | maintenance
+機器             | きき                   | equipment 
+ネットワーク　        | -                    | network      
+ハードウエア          |–                     | hardware    
+費用              |ひよう                  | expense       
+処理              |しょり                  | process like do a calculation, etc.        
+修正              |しゅうせい              | edit    
+要求              |ようきゅう               | demand, request from a customer, etc.  
+運用              |うんよう                | operations of a data center, etc. 
+
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------
+-------------------------------------------------------------
