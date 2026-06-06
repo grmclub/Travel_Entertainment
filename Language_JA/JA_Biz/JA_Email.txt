@@ -1,0 +1,118 @@
+https://tcj-education.com/column/how-to-write-business-emails-to-clients-in-japanese-with-free-templates/
+https://tcj-education.com/course/job-hunting-course/
+-------------------------------------------------------------
+##Basic Structure
+
+1. Greeting: Begin your email with a formal greeting such as いつもお世話になっております (Itsumo osewa ni natte orimasu; Thank you for your continued support) 
+   or お世話になっております (Osewa ni natte orimasu; Thank you for your support). These phrases are typically used with clients or external counterparts. 
+
+2. Self Introduction: If you are not well-acquainted with the recipient, introduce yourself briefly. Mention your name and the company you work for. 
+    E.g. TCJの田中です (TCJ no Tanaka desu; This is Tanaka from TCJ)
+
+3. Main Topic/Content: Clearly state the purpose of your email in a concise manner. E.g. ◯◯の件についてです。(xxx no ken ni tsuite desu; Regarding xxx)
+
+4. Thank You/Closing Message: Express your gratitude for the recipient’s time and consideration. This could be something like
+   ご検討いただき、ありがとうございます (Go kentou itadaki arigatou gozaimasu; Thank you for your kind consideration). 
+
+5. Sign Off: End your email with a formal closing, such as “よろしくお願いいたします” (Yoroshiku onegai itashimasu), followed by your name, and if you wish, company name.
+
+-------------------------------------------------------------
+## How to write a subject line in Japanese
+
+Subject lines in Japanese should provide a concise summary of the email’s content. Here are a few examples:
+
+    …のお願い (…no onegai; request for xxx)
+    …の件について (… no ken ni tsuite; regarding xxx)
+    ….に関して (… ni kanshite; concerning xxx)
+    …のお礼 (…. no orei; thank you for xxx)
+    …のお詫び (…. no owabi; apologies for xxx)
+-------------------------------------------------------------
+## Japanese business email template 1: Thank you/follow-up email
+
+件名 (Kenmei; Subject): 
+本日のお礼 (Honjitsu no orei; Thank you for today)
+本文 (Honbun; Body):
+鈴木様
+いつもお世話になっております。
+TCJ社の田中です。
+本日はお時間いただき、ありがとうございました。
+本日疑問点として挙げていただいた
+・●●●
+・△△
+に関しては、社内で確認後改めてご連絡いたします。
+引き続き、よろしくお願いいたします。
+田中
+
+[English translation]
+Hi Suzuki-san,
+Thank you for your support. 
+This is Tanaka from TCJ. 
+Thank you for your time today. 
+Regarding xxx and xxx that we discussed today, I will get back to you after confirming internally. 
+I look forward to working with you.
+Best,
+Tanaka
+-------------------------------------------------------------
+
+Japanese business email template 2: Apology email
+件名 (Kenmei; Subject): 
+提案の納品遅れに関するお詫び (Teian no nouhin okure ni kansuru owabi; Apology for the delayed proposal)
+本文 (Honbun; Body):
+鈴木様
+いつもお世話になっております。
+TCJ社の田中です。
+この度は提案の納品に遅れが生じ、大変申し訳ございません。
+来週月曜日には手配が完了いたしますので
+火曜日までには鈴木様のお手元に到着する見込みとなっております。
+改めまして、ご迷惑をおかけしましたこと深くお詫び申し上げます。
+田中
+
+[English translation]
+Hi Suzuki-san,
+Thank you for your support. 
+This is Tanaka from TCJ. 
+I apologize for the delay in the delivery of our proposal.
+We plan to make the necessary arrangement by next Monday and we will be able to send it to you by Tuesday.
+Once again, we deeply apologize for any inconvenience caused.
+Best regards,
+Tanaka
+-------------------------------------------------------------
+
+Japanese business email template 3: Email to set up a meeting
+件名 (Kenmei; Subject): 
+打ち合わせの件 (Uchiawase no ken; Regarding the meeting)
+本文 (Honbun; Body):
+鈴木様
+お世話になっております。
+TCJ社の田中です。
+次回の打ち合わせを設定させていただければと思います。
+下記の日程でのご都合をお伺いできますでしょうか。
+7月10日（月）16時ー18時の間で1時間ほど
+7月11日（火）15時ー17時の間で1時間ほど
+7月13日（木）17時ー19時の間で1時間ほど
+上記が難しい場合は、ご都合の良い日程をご指定ください。
+よろしくお願いいたします。
+田中
+[English Translation] 
+Hi Suzuki san,
+Thank you for your support. 
+This is Tanaka from TCJ. 
+I would like to set up our next meeting.
+Do any of the below dates/times work for you?
+July 10 (Mon) between 4 and 6 pm for about an hour
+July 11 (Tues) between 3 and 5 pm for about an hour
+July 13 (Thurs) between 5 and 7 pm for about an hour
+If the above times are difficult, please let us know some times that are convenient for you.
+Best regards,
+Tanaka
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+
