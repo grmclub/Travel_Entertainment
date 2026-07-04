@@ -1,0 +1,51 @@
+
+-------------------------------------------------
+--slander
+
+中傷 (chūshō): Refers to false accusations, defamation, or insulting remarks that harm a person’s character or reputation.
+名誉毀損 (meiyo kison): This is the precise legal term for defamation of character (covering both slander and libel).
+
+
+-------------------------------------------------
+/list common japanese legal terms
+
+Here is a list of common Japanese legal terms related to defamation, civil wrongs, and criminal offenses, along with their English equivalents and breakdown.
+
+Defamation and Reputation
+    • 名誉毀損 (meiyo kison): Defamation of character (covers both written libel and spoken slander).
+	
+    • 侮辱罪 (bujokuzai): Insult crime (criminal offense for publicly demeaning someone without needing to prove a factual claim).
+	
+    • 信用毀損 (shinyō kison): Damage to credit or financial reputation (spreading false rumors to harm a person's or business's economic trust).
+	
+    • プライバシー侵害 (puraibashī shingai): Infringement of privacy.
+	
+    • 肖像権侵害 (shōzōken shingai): Violation of portrait rights (unauthorized use or publication of someone’s image or likeness). 
+	
+Civil Wrongs and Liability
+    • 不法行為 (fuhō kōi): Tort (an illegal act or civil wrong that causes harm to another person).
+	
+    • 損害賠償 (songai baishō): Damages / Compensation for damages.
+	
+    • 慰謝料 (isharyō): Solatium / Consolation money (compensation specifically for mental distress or emotional suffering).
+	
+    • 差止請求 (sashitome seikyū): Injunction request (demanding someone stop a harmful action, such as deleting a defamatory post).
+	
+    • 発信者情報開示請求 (hasshinsha jōhō kaiji seikyū): Disclosure request for sender information (used to identify anonymous online trolls or slanderers).
+
+Criminal Law Basics
+    • 告訴 (kokusu): Criminal complaint (filed by a victim to request the police prosecute a criminal offender).
+	
+    • 告発 (kokuhatsu): Accusation / Denunciation (filed by a third party, not the victim, to report a crime).
+	
+    • 被害届 (higaitodoke): Damage report / Incident report (informing the police that a crime occurred, without an explicit request for prosecution).
+	
+    • 起訴 (kiso): Indictment / Prosecution.
+	
+    • 有罪 (yūzai): Guilty verdict. 
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
