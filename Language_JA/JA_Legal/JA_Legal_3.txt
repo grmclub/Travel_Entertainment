@@ -1,10 +1,14 @@
 
 -------------------------------------------------
 --slander
-
 中傷 (chūshō): Refers to false accusations, defamation, or insulting remarks that harm a person’s character or reputation.
 名誉毀損 (meiyo kison): This is the precise legal term for defamation of character (covering both slander and libel).
 
+--filing complaint
+ 受理日 (juribi), which means the "Date of Official Acceptance." This is legally considered the exact day your application or status change went into effect.
+
+--misc
+Souba (相場, そうば) is a Japanese financial and everyday term that means market price, market value, or going rate. It represents the current prevailing price or valuation of an asset, commodity, service, or social expectation based on supply and demand.
 
 -------------------------------------------------
 /list common japanese legal terms
