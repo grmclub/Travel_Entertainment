@@ -1,0 +1,28 @@
+
+-------------------------------------------------
+JR East Limited Express Trains
+These trains primarily depart from major JR hubs like Tokyo Station, Ueno, Shinjuku, and Shinagawa. 
+
+================================================================================================================== 
+Train Name               | Major Destinations / Areas              | Primary Departure Station
+================================================================================================================== 
+Narita Express (N'EX)    | Narita Airport                          | Tokyo, Shinjuku, Shibuya, Shinagawa
+Hitachi / Tokiwa         | Mito, Iwaki, Sendai (Joban Line)        | Shinagawa, Tokyo, Ueno
+Azusa / Kaiji            | Kofu, Matsumoto, Lake Kawaguchiko       | Shinjuku
+Fuji Romancecar          | Lake Kawaguchiko (Mount Fuji)           | Shinjuku
+Odoriko / Saphir Odoriko | Izu Peninsula (Atami, Shimoda, Shuzenji)| Tokyo, Shinjuku
+Shonan                   | Odawara, Hiratsuka (Tokaido Line)       | Tokyo, Shinjuku
+Kusatsu-Shima            | Kusatsu Onsen (Gunma Prefecture)        | Ueno
+Wakashio                 | Katsuura, Awa-Kamogawa (Boso Peninsula) | Tokyo
+Sazanami                 | Kimitsu (Boso Peninsula)                | Tokyo
+Shiosai                  | Choshi (Boso Peninsula)                 | Tokyo
+Nikko / Kinugawa         | Nikko, Kinugawa Onsen                   | Shinjuku
+================================================================================================================== 
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
