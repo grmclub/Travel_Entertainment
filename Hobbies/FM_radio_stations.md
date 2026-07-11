@@ -1,8 +1,11 @@
+body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:12px } a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em; } a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em; } comment { display:none; }
+
 #### Links
 
 [1]: https://www.tfm.co.jp/bnavi/radio/ <br/>
 [2]: https://radio.jj1bdx.tokyo/radio-in-tokyo.html <br/>
 [3]: https://gist.github.com/jj1bdx/d738fb0fa05871d363feba348057bc2c <br/>
+[4]: https://www.geeksforgeeks.org/git/markdown-cheat-sheet-github/ <br/>
 -------------------------------------------------
 Tokyo's major FM radio station frequencies are 80.0 MHz (TOKYO FM), 81.3 MHz (J-WAVE), 89.7 MHz (interfm), and 82.5 MHz (NHK-FM). 
 Specific frequencies for the main stations in the Greater Tokyo Area include:
@@ -17,7 +20,7 @@ Specific frequencies for the main stations in the Greater Tokyo Area include:
     * FM Edogawa      84.3MHz   Edogawa Ward
     * AFN Tokyo       89.1 MHz  (Eagle 810)/810 kHz (AM) for U.S. military and expatriate listeners  
 -------------------------------------------------
-# FM Radio frequencies around Tokyo
+#### FM Radio frequencies around Tokyo
 
 
 |Station name|J:COM Cable|terrestrial radio|
@@ -35,7 +38,7 @@ Specific frequencies for the main stations in the Greater Tokyo Area include:
 | Bunka Housou AM relay | N/A | 91.6MHz |
 | Nippon Housou AM relay | N/A | 93.0MHz |
 
-## Toyonaka (Northern Osaka region)
+#### Toyonaka (Northern Osaka region)
 
 * Cable FM: J:COM Toyonaka-Ikeda
 
