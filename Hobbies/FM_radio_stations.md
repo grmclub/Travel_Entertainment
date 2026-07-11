@@ -1,9 +1,9 @@
 
-[1]: https://www.tfm.co.jp/bnavi/radio/
-[2]: https://radio.jj1bdx.tokyo/radio-in-tokyo.html
-[3]: https://gist.github.com/jj1bdx/d738fb0fa05871d363feba348057bc2c
+[1]: https://www.tfm.co.jp/bnavi/radio/ <br/>
+[2]: https://radio.jj1bdx.tokyo/radio-in-tokyo.html <br/>
+[3]: https://gist.github.com/jj1bdx/d738fb0fa05871d363feba348057bc2c <br/>
 -------------------------------------------------
-Tokyo's major FM radio station frequencies are 80.0 MHz (TOKYO FM), 81.3 MHz (J-WAVE), 89.7 MHz (interfm), and 82.5 MHz (NHK-FM).
+Tokyo's major FM radio station frequencies are 80.0 MHz (TOKYO FM), 81.3 MHz (J-WAVE), 89.7 MHz (interfm), and 82.5 MHz (NHK-FM). 
 Specific frequencies for the main stations in the Greater Tokyo Area include:
 
     * J-WAVE:   81.3 MHz (Tokyo Skytree) and 88.3 MHz (Roppongi relay)
@@ -22,10 +22,10 @@ Specific frequencies for the main stations in the Greater Tokyo Area include:
 
 |Station name|J:COM Cable|terrestrial radio|
 |----|----|------|
-| bayfm | 76.7 MHz | 78.0MHz |
-| Nack5 | 77.5 MHz | 79.5MHz |
+| bayfm | 76.7 MHz | 78.0MHz | 
+| Nack5 | 77.5 MHz | 79.5MHz | 
 | TOKYO FM | 78.3MHz | 80.0MHz |
-| J-Wave | 78.9MHz | 81.3MHz |
+| J-Wave | 78.9MHz | 81.3MHz | 
 | FM Setagaya | 82.0MHz | 83.4MHz |
 | Chofu FM | 82.8MHz | 83.8MHz |
 | NHK-FM Tokyo | 83.2MHz | 82.5MHz |
