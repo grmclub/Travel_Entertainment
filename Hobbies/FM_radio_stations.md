@@ -11,11 +11,10 @@ Specific frequencies for the main stations in the Greater Tokyo Area include:
     * interfm:  89.7 MHz (Tokyo Tower)
     * NHK-FM:   82.5 MHz (Tokyo Skytree)
 
-    * Rainbow Town FM (Oedo Broadcasting Station), broadcasting at 79.2 MHz.
-      Its studio is located inside the Fukagawa Gatharia shopping complex in Kiba
-    * Katsu F       78.9MHz Katsushika Ward
-    * FM Edogawa    84.3MHz Edogawa Ward
-    * AFN Tokyo (Eagle 810): 810 kHz (AM), which also simulcasts on FM 89.1 MHz for U.S. military and expatriate listeners.
+    * Rainbow Town FM 79.2 MHz. Oedo Broadcasting Station. Studio is located inside the Fukagawa Gatharia shopping complex in Kiba
+    * Katsu FM        78.9MHz   Katsushika Ward
+    * FM Edogawa      84.3MHz   Edogawa Ward
+    * AFN Tokyo       89.1 MHz  (Eagle 810)/810 kHz (AM) for U.S. military and expatriate listeners  
 -------------------------------------------------
 # FM Radio frequencies around Tokyo
 
