@@ -6,7 +6,7 @@
 [3]: https://gist.github.com/jj1bdx/d738fb0fa05871d363feba348057bc2c <br/>
 [4]: https://www.geeksforgeeks.org/git/markdown-cheat-sheet-github/ <br/>
 </span>
--------------------------------------------------
+------------------------------------------------- <br/>
 Tokyo's major FM radio station frequencies are 80.0 MHz (TOKYO FM), 81.3 MHz (J-WAVE), 89.7 MHz (interfm), and 82.5 MHz (NHK-FM). 
 Specific frequencies for the main stations in the Greater Tokyo Area include:
 
@@ -19,7 +19,7 @@ Specific frequencies for the main stations in the Greater Tokyo Area include:
     * Katsu FM        78.9MHz   Katsushika Ward
     * FM Edogawa      84.3MHz   Edogawa Ward
     * AFN Tokyo       89.1 MHz  (Eagle 810)/810 kHz (AM) for U.S. military and expatriate listeners  
--------------------------------------------------
+------------------------------------------------- <br/>
 #### FM Radio frequencies around Tokyo
 
 
