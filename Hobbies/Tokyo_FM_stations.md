@@ -1,7 +1,6 @@
 
 <html>
 <head>
-<title>Tokyo Radio Stations [English guide]</title>
 <STYLE type=text/css>
 <!--
 a { TEXT-DECORATION: none;}
