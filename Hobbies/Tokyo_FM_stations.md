@@ -1,75 +1,342 @@
-Tokyo Radio Stations 【English guide】      <!-- a { TEXT-DECORATION: none;} a:hover { COLOR: #ff00ff; TEXT-DECORATION: none;} h2 { color: #FFA500; } -->  
 
-[\>For Mobile](/Tokyo_Radio/mobile.html)
-
-|     |     |
-| --- | --- |
-| \-![Tokyo Radio Stations](/Tokyo_Radio/top.png)  <br><br># Radio station that can be listened in Tokyo. | ![image](/Tokyo_Radio/radio_image1.jpg) |
-
-
-
-## ◆The main **FM Station** \[76-90MHz\]
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |Broadcasting station that broadcasts to large area.
-| **Frequency** | **Broadcasting station name** | **Transmitting place** | **Transmission power** | **Remarks** |
-| 76.1MHz | [InterFM](http://www.interfm.co.jp/) | Yokohama | 10kW | English Station |
-| 77.1MHz | [The University of the Air](http://www.u-air.ac.jp/eng/) | Tokyo | 10kW | Lecture broadcasting for student |
-| 78.0MHz | [Bay-FM](http://www.bayfm.co.jp/) | Chiba | 5kW |     |
-| 79.5MHz | [NACK5](http://www.nack5.co.jp/) | Saitama | 5kW |     |
-| 80.0MHz | [TOKYO-FM](http://www.tfm.co.jp/) | Tokyo | 10kW |     |
-| 81.3MHz | [J-WAVE](http://www.j-wave.co.jp/) | Tokyo | 10kW |     |
-| 82.5MHz | [NHK-FM](http://www.nhk.or.jp/fm/) | Tokyo | 10kW | Japan Public Broadcasting Corporation |
-| 84.7MHz | [FM Yokohama](http://www.fmyokohama.co.jp/) | Yokohama | 5kW |     |
-
-[Tuning image](/Tokyo_Radio/fm_tuning.html)
-
-
-
-## ◆The main **AM Station** \[531-1602kHz\]　　[※9kHz STEP \[?\]](/Tokyo_Radio/AM_freq.html)
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |Broadcasting station that broadcasts to large area.
-| **Frequency** | **Broadcasting station name** | **Transmitting place** | **Transmission power** | **Remarks** |
-| 594kHz | [NHK R1](http://www.nhk.or.jp/r1/) | Tokyo | 300kW | Japan Public Broadcasting Corporation |
-| 693kHz | [NHK R2 (Educational)](http://www.nhk.or.jp/) | Tokyo | 500kW | Japan Public Broadcasting Corporation |
-| 810kHz | [AFN (AmericanForcesNetwork)](http://www.afntokyo.com/afntokyo/Home.html) | Tokyo | 50kW | English Station |
-| 954kHz | [TBS Radio](http://www.tbs.co.jp/radio/) | Tokyo | 100kW |     |
-| 1134kHz | [Bunka Housou](http://www.joqr.co.jp/index.php) | Tokyo | 100kW |     |
-| 1242kHz | [Nippon Housou](http://www.1242.com/) | Tokyo | 100kW |     |
-| 1422Hz | [RF Radio Nippon](http://www.jorf.co.jp/) | Kanagawa | 50kW |     |
-| 1620kHz | [Expressway Radio](http://ja.wikipedia.org/wiki/%E8%B7%AF%E5%81%B4%E6%94%BE%E9%80%81) | Expressway Roadside | Weak power | Expressway Infomation |
-
-\-----------------------------------------------------------------------
-
-
-### ◆The small FM Station in Tokyo.\[76-90MHz\]
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |Broadcasting station that broadcasts to local area.
-| **Frequency** | **Broadcasting station name** | **Transmitting place** | **Transmission power** | **Remarks** |
-| 76.7MHz | [Flower radio](http://www.fm767.com/top.html) | Saitama Kounosu | 10W | Small FM Station |
-| 77.6MHz | [FM TAMA G-WIND](http://www.fmtama.co.jp/) | Tokyo Tama | 10W | Small FM Station |
-| 77.7MHz | [FM CHAPPY](http://www.fmchappy.jp/) | Saitama Irima | 20W | Small FM Station |
-| 77.7MHz | [Magic FM](http://fmyamato.co.jp/) | Kangawa Yamato | 20W | Small FM Station |
-| 78.2MHz | [musashino FM](http://www.musashino-fm.co.jp/) | Tokyo Musashino | 20W | Small FM Station |
-| 78.3MHz | [FM Shounan NAPASA](http://www.fmshonan783.co.jp/) | Kangawa Hiratsuka | 20W | Small FM Station |
-| 78.4MHz | [SHIBUYA-FM](http://www.shibuya-fm.co.jp/index2.html) | Tokyo Shibuya | 20W | Small FM Station |
-| 78.5MHz | [FM Blue Shounan](http://www.yokosukafm.com/) | Kangawa Yokosuka | 20W | Small FM Station |
-| 78.9MHz | [katsu-F](http://www.kfm789.co.jp/) | Tokyo Katsushika | 20W | Small FM Station |
-| 78.9MHz | [Shounan Beach FM](http://www.beachfm.co.jp/) | Kangawa Hayama | 20W | Small FM Station |
-| 79.1MHz | [Kawasaki FM](http://www.kawasakifm.co.jp/) | Kangawa Kawasaki | 20W | Small FM Station |
-| 79.2MHz | [RainbowTown FM](http://www.792fm.com/) | Tokyo Eto | 10W | Small FM Station |
-| 82.8MHz | [Kamakura FM](http://www.kamakurafm.co.jp/) | Kangawa Kamakura | 10W | Small FM Station |
-| 83.0MHz | [Ichikawa FM](http://www.ichikawafm.co.jp/) | Chiba Ichikawa | 20W | Small FM Station |
-| 83.1MHz | [Radio Shounan](http://www.radioshonan.co.jp/) | Kangawa Fujisawa | 20W | Small FM Station |
-| 83.4MHz | [FM Bell](http://www.834fm.net/) | Chiba Kisarazu | 20W | Small FM Station |
-| 83.4MHz | [FM setagaya](http://www.fmsetagaya.co.jp/) | Tokyo Setagaya | 20W | Small FM Station |
-| 83.6MHz | [FM URARA](http://www.fmu.co.jp/) | Chiba Urayasu | 5W  | Small FM Station |
-| 83.8MHz | [tyoufu FM](http://www.chofu-fm.com/) | Tokyo Tyoufu | 20W | Small FM Station |
-| 83.9MHz | [FM Sagami](http://www.fmsagami.co.jp/) | Kangawa Sagami | 20W | Small FM Station |
-| 84.1MHz | [FM salus](http://www.fm-salus.jp/) | Kangawa Yokohama | 20W | Small FM Station |
-| 84.2MHz | [FM nishi-tokyo](http://842fm.west-tokyo.co.jp/) | Tokyo Nishitokyo | 10W | Small FM Station |
-| 84.3MHz | [FM edogawa](http://www.fm843.co.jp/) | Tokyo Edogawa | 10W | Small FM Station |
-
-  
+<html>
+<head>
+<title>Tokyo Radio Stations [English guide]</title>
+<STYLE type=text/css>
+<!--
+a { TEXT-DECORATION: none;}
+a:hover { COLOR: #ff00ff; TEXT-DECORATION: none;}
+h2 { 
+color: #FFA500;
+}
+-->
+</STYLE>
+</head>
+<body bgcolor="#000000" link="#00ff00" alink="#FF00FF" vlink="#00ff00" text="#cccccc" background="/Tokyo_Radio/bg.jpg">
+<br><div align="right"><font size="2"><a href="/Tokyo_Radio/mobile.html">>For Mobile</a></font></div>
+<table border="0" width="100%"><tr>
+<td><font color="#000000">-</font><img src="/Tokyo_Radio/top.png" width="600" height="74" alt="Tokyo Radio Stations"><br /><center><h1>Radio station that can be listened in Tokyo.</h1></center></td><td><img src="/Tokyo_Radio/radio_image1.jpg" align="center" width="320" height="177" alt="image"></td>
+</tr></table><br /><br /><br />
+<table align="center" border="0" width="80%"><tr><td>
+<h2>◆The main <strong>FM Station</strong>  [76-90MHz]</h2>
+<table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to large area.</font></caption>
+<tr>
+<td><strong>Frequency</strong></td>
+<td><strong>Broadcasting station name</strong></td>
+<td><strong>Transmitting place</strong></td>
+<td><strong>Transmission power</strong></td>
+<td><strong>Remarks</strong></td>
+</tr>
+<tr>
+<td>76.1MHz</td>
+<td><a href="http://www.interfm.co.jp/">InterFM</a></td>
+<td>Yokohama</td>
+<td>10kW</td>
+<td><font color="red">English Station</font></td>
+</tr>
+<tr>
+<td>77.1MHz</td>
+<td><a href="http://www.u-air.ac.jp/eng/">The University of the Air</a></td>
+<td>Tokyo</td>
+<td>10kW</td>
+<td>Lecture broadcasting for student</td>
+</tr>
+<tr>
+<td>78.0MHz</td>
+<td><a href="http://www.bayfm.co.jp/">Bay-FM</a></td>
+<td>Chiba</td>
+<td>5kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>79.5MHz</td>
+<td><a href="http://www.nack5.co.jp/">NACK5</a></td>
+<td>Saitama</td>
+<td>5kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>80.0MHz</td>
+<td><a href="http://www.tfm.co.jp/">TOKYO-FM</a></td>
+<td>Tokyo</td>
+<td>10kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>81.3MHz</td>
+<td><a href="http://www.j-wave.co.jp/">J-WAVE</a></td>
+<td>Tokyo</td>
+<td>10kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>82.5MHz</td>
+<td><a href="http://www.nhk.or.jp/fm/">NHK-FM</a></td>
+<td>Tokyo</td>
+<td>10kW</td>
+<td>Japan Public Broadcasting Corporation</td>
+</tr>
+<tr>
+<td>84.7MHz</td>
+<td><a href="http://www.fmyokohama.co.jp/">FM Yokohama</a></td>
+<td>Yokohama</td>
+<td>5kW</td>
+<td>　</td>
+</tr>
+</table>
+<div align="right"><a href="/Tokyo_Radio/fm_tuning.html"><font size="2">Tuning image</font></a></div><br />
+<br />
+<br />
+<h2>◆The main <strong>AM Station</strong>  [531-1602kHz]　　<a href="/Tokyo_Radio/AM_freq.html"><font color="#cccccc">※9kHz STEP [?]</font></a></h2>
+<table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to large area.</font></caption>
+<tr>
+<td><strong>Frequency</strong></td>
+<td><strong>Broadcasting station name</strong></td>
+<td><strong>Transmitting place</strong></td>
+<td><strong>Transmission power</strong></td>
+<td><strong>Remarks</strong></td>
+</tr>
+<tr>
+<td>594kHz</td>
+<td><a href="http://www.nhk.or.jp/r1/">NHK R1</a></td>
+<td>Tokyo</td>
+<td>300kW</td>
+<td>Japan Public Broadcasting Corporation</td>
+</tr>
+<tr>
+<td>693kHz</td>
+<td><a href="http://www.nhk.or.jp/">NHK R2 (Educational)</a></td>
+<td>Tokyo</td>
+<td>500kW</td>
+<td>Japan Public Broadcasting Corporation</td>
+</tr>
+<tr>
+<td>810kHz</td>
+<td><a href="http://www.afntokyo.com/afntokyo/Home.html">AFN (AmericanForcesNetwork)</a></td>
+<td>Tokyo</td>
+<td>50kW</td>
+<td><font color="red">English Station</font></td>
+</tr>
+<tr>
+<td>954kHz</td>
+<td><a href="http://www.tbs.co.jp/radio/">TBS Radio</a></td>
+<td>Tokyo</td>
+<td>100kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>1134kHz</td>
+<td><a href="http://www.joqr.co.jp/index.php">Bunka Housou</a></td>
+<td>Tokyo</td>
+<td>100kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>1242kHz</td>
+<td><a href="http://www.1242.com/">Nippon Housou</a></td>
+<td>Tokyo</td>
+<td>100kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>1422Hz</td>
+<td><a href="http://www.jorf.co.jp/">RF Radio Nippon</a></td>
+<td>Kanagawa</td>
+<td>50kW</td>
+<td>　</td>
+</tr>
+<tr>
+<td>1620kHz</td>
+<td><a href="http://ja.wikipedia.org/wiki/%E8%B7%AF%E5%81%B4%E6%94%BE%E9%80%81">Expressway Radio</a></td>
+<td>Expressway Roadside</td>
+<td>Weak power</td>
+<td>Expressway Infomation</td>
+</tr>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<center>-----------------------------------------------------------------------</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<h3>◆The small FM Station in Tokyo.[76-90MHz]</h3>
+<table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to local area.</font></caption>
+<tr>
+<td><strong>Frequency</strong></td>
+<td><strong>Broadcasting station name</strong></td>
+<td><strong>Transmitting place</strong></td>
+<td><strong>Transmission power</strong></td>
+<td><strong>Remarks</strong></td>
+</tr>
+<tr>
+<td>76.7MHz</td>
+<td><a href="http://www.fm767.com/top.html">Flower radio</a></td>
+<td>Saitama Kounosu</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>77.6MHz</td>
+<td><a href="http://www.fmtama.co.jp/">FM TAMA G-WIND</a></td>
+<td>Tokyo Tama</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>77.7MHz</td>
+<td><a href="http://www.fmchappy.jp/">FM CHAPPY</a></td>
+<td>Saitama Irima</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>77.7MHz</td>
+<td><a href="http://fmyamato.co.jp/">Magic FM</a></td>
+<td>Kangawa Yamato</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.2MHz</td>
+<td><a href="http://www.musashino-fm.co.jp/">musashino FM</a></td>
+<td>Tokyo Musashino</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.3MHz</td>
+<td><a href="http://www.fmshonan783.co.jp/">FM Shounan NAPASA</a></td>
+<td>Kangawa Hiratsuka</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.4MHz</td>
+<td><a href="http://www.shibuya-fm.co.jp/index2.html">SHIBUYA-FM</a></td>
+<td>Tokyo Shibuya</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.5MHz</td>
+<td><a href="http://www.yokosukafm.com/">FM Blue Shounan</a></td>
+<td>Kangawa Yokosuka</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.9MHz</td>
+<td><a href="http://www.kfm789.co.jp/">katsu-F</a></td>
+<td>Tokyo Katsushika</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>78.9MHz</td>
+<td><a href="http://www.beachfm.co.jp/">Shounan Beach FM</a></td>
+<td>Kangawa Hayama</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>79.1MHz</td>
+<td><a href="http://www.kawasakifm.co.jp/">Kawasaki FM</a></td>
+<td>Kangawa Kawasaki</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>79.2MHz</td>
+<td><a href="http://www.792fm.com/">RainbowTown FM</a></td>
+<td>Tokyo Eto</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>82.8MHz</td>
+<td><a href="http://www.kamakurafm.co.jp/">Kamakura FM</a></td>
+<td>Kangawa Kamakura</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.0MHz</td>
+<td><a href="http://www.ichikawafm.co.jp/">Ichikawa FM</a></td>
+<td>Chiba Ichikawa</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.1MHz</td>
+<td><a href="http://www.radioshonan.co.jp/">Radio Shounan</a></td>
+<td>Kangawa Fujisawa</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.4MHz</td>
+<td><a href="http://www.834fm.net/">FM Bell</a></td>
+<td>Chiba Kisarazu</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.4MHz</td>
+<td><a href="http://www.fmsetagaya.co.jp/">FM setagaya</a></td>
+<td>Tokyo Setagaya</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.6MHz</td>
+<td><a href="http://www.fmu.co.jp/">FM URARA</a></td>
+<td>Chiba Urayasu</td>
+<td>5W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.8MHz</td>
+<td><a href="http://www.chofu-fm.com/">tyoufu FM</a></td>
+<td>Tokyo Tyoufu</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>83.9MHz</td>
+<td><a href="http://www.fmsagami.co.jp/">FM Sagami</a></td>
+<td>Kangawa Sagami</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>84.1MHz</td>
+<td><a href="http://www.fm-salus.jp/">FM salus</a></td>
+<td>Kangawa Yokohama</td>
+<td>20W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>84.2MHz</td>
+<td><a href="http://842fm.west-tokyo.co.jp/">FM nishi-tokyo</a></td>
+<td>Tokyo Nishitokyo</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+<tr>
+<td>84.3MHz</td>
+<td><a href="http://www.fm843.co.jp/">FM edogawa</a></td>
+<td>Tokyo Edogawa</td>
+<td>10W</td>
+<td>Small FM Station</td>
+</tr>
+</table><br />
+<br />
+<br />
+<br />
+</body>
+</html>
