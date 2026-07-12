@@ -1,16 +1,6 @@
 
 <html>
-<head>
-<STYLE type=text/css>
-<!--
-a { TEXT-DECORATION: none;}
-a:hover { COLOR: #ff00ff; TEXT-DECORATION: none;}
-h2 { 
-color: #FFA500;
-}
--->
-</STYLE>
-</head>
+<head></head>
 <body bgcolor="#000000" link="#00ff00" alink="#FF00FF" vlink="#00ff00" text="#cccccc">
 <h2>Tokyo Radio Stations</h2>
 <br /><br /><br />
