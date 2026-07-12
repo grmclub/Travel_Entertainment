@@ -12,11 +12,9 @@ color: #FFA500;
 -->
 </STYLE>
 </head>
-<body bgcolor="#000000" link="#00ff00" alink="#FF00FF" vlink="#00ff00" text="#cccccc" background="/Tokyo_Radio/bg.jpg">
-<br><div align="right"><font size="2"><a href="/Tokyo_Radio/mobile.html">>For Mobile</a></font></div>
-<table border="0" width="100%"><tr>
-<td><font color="#000000">-</font><img src="/Tokyo_Radio/top.png" width="600" height="74" alt="Tokyo Radio Stations"><br /><center><h1>Radio station that can be listened in Tokyo.</h1></center></td><td><img src="/Tokyo_Radio/radio_image1.jpg" align="center" width="320" height="177" alt="image"></td>
-</tr></table><br /><br /><br />
+<body bgcolor="#000000" link="#00ff00" alink="#FF00FF" vlink="#00ff00" text="#cccccc">
+<h2>Tokyo Radio Stations</h2>
+<br /><br /><br />
 <table align="center" border="0" width="80%"><tr><td>
 <h2>◆The main <strong>FM Station</strong>  [76-90MHz]</h2>
 <table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to large area.</font></caption>
@@ -153,16 +151,6 @@ color: #FFA500;
 <td>Expressway Infomation</td>
 </tr>
 </table>
-<br />
-<br />
-<br />
-<br />
-<br />
-<center>-----------------------------------------------------------------------</center>
-<br />
-<br />
-<br />
-<br />
 <br />
 <h3>◆The small FM Station in Tokyo.[76-90MHz]</h3>
 <table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to local area.</font></caption>
