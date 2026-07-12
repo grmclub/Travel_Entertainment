@@ -212,7 +212,7 @@
 <td>Tokyo Katsushika</td>
 <td>20W</td>
 <td>Small FM Station</td>
-</tr>
+</tr>Oedo
 <tr>
 <td>78.9MHz</td>
 <td><a href="http://www.beachfm.co.jp/">Shounan Beach FM</a></td>
@@ -230,7 +230,7 @@
 <tr>
 <td>79.2MHz</td>
 <td><a href="http://www.792fm.com/">RainbowTown FM</a></td>
-<td>Tokyo Eto</td>
+<td>Tokyo Oedo/Kiba</td>
 <td>10W</td>
 <td>Small FM Station</td>
 </tr>
