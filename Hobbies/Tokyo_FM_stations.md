@@ -174,7 +174,7 @@
 <tr>
 <td>77.7MHz</td>
 <td><a href="http://fmyamato.co.jp/">Magic FM</a></td>
-<td>Kangawa Yamato</td>
+<td>Kanagawa Yamato</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
@@ -188,7 +188,7 @@
 <tr>
 <td>78.3MHz</td>
 <td><a href="http://www.fmshonan783.co.jp/">FM Shounan NAPASA</a></td>
-<td>Kangawa Hiratsuka</td>
+<td>Kanagawa Hiratsuka</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
@@ -202,7 +202,7 @@
 <tr>
 <td>78.5MHz</td>
 <td><a href="http://www.yokosukafm.com/">FM Blue Shounan</a></td>
-<td>Kangawa Yokosuka</td>
+<td>Kanagawa Yokosuka</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
@@ -216,14 +216,14 @@
 <tr>
 <td>78.9MHz</td>
 <td><a href="http://www.beachfm.co.jp/">Shounan Beach FM</a></td>
-<td>Kangawa Hayama</td>
+<td>Kanagawa Hayama</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
 <tr>
 <td>79.1MHz</td>
 <td><a href="http://www.kawasakifm.co.jp/">Kawasaki FM</a></td>
-<td>Kangawa Kawasaki</td>
+<td>Kanagawa Kawasaki</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
@@ -237,7 +237,7 @@
 <tr>
 <td>82.8MHz</td>
 <td><a href="http://www.kamakurafm.co.jp/">Kamakura FM</a></td>
-<td>Kangawa Kamakura</td>
+<td>Kanagawa Kamakura</td>
 <td>10W</td>
 <td>Small FM Station</td>
 </tr>
@@ -251,7 +251,7 @@
 <tr>
 <td>83.1MHz</td>
 <td><a href="http://www.radioshonan.co.jp/">Radio Shounan</a></td>
-<td>Kangawa Fujisawa</td>
+<td>Kanagawa Fujisawa</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
@@ -286,14 +286,14 @@
 <tr>
 <td>83.9MHz</td>
 <td><a href="http://www.fmsagami.co.jp/">FM Sagami</a></td>
-<td>Kangawa Sagami</td>
+<td>Kanagawa Sagami</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
 <tr>
 <td>84.1MHz</td>
 <td><a href="http://www.fm-salus.jp/">FM salus</a></td>
-<td>Kangawa Yokohama</td>
+<td>Kanagawa Yokohama</td>
 <td>20W</td>
 <td>Small FM Station</td>
 </tr>
