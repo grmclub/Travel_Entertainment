@@ -3,7 +3,7 @@
 <head></head>
 <body bgcolor="#000000" link="#00ff00" alink="#FF00FF" vlink="#00ff00" text="#cccccc">
 <h2>Tokyo Radio Stations</h2>
-<br /><br /><br />
+<br />
 <table align="center" border="0" width="80%"><tr><td>
 <h2>◆The main <strong>FM Station</strong>  [76-90MHz]</h2>
 <table border="1" align="center" width="900"><caption align="left"><font size="2" color="gray">Broadcasting station that broadcasts to large area.</font></caption>
