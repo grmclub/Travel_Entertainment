@@ -1,0 +1,91 @@
+
+-------------------------------------------------
+## legal terminology
+
+-abusive litigant 
+Vexatious litigation is legal action which is brought solely to harass or subdue an adversary.
+The abusive party filing cross-petitions for protective orders with the goal of confusing court officials as to who the "perpetrator" and who the "victim" is
+
+-alpha david
+"Alpha david" is likely a phonetic or speech-to-text misunderstanding of "affidavit," a formal written legal statement made under oath. People often mishear the legal term "affidavit" as "alpha david" or "affidavit of..." when listening to court proceedings or legal discussions
+
+Understanding Affidavits
+    • Definition: A sworn, written statement of facts voluntarily signed by an affiant before a notary public or officer of the court.
+    • Legal weight: Treated with the same seriousness as oral testimony; lying on one constitutes perjury.
+    • Common types: Includes affidavits of non-prosecution, financial disclosures, or witness statements.
+
+-perjury
+Perjury is the criminal act of knowingly and intentionally making a false statement or lying while under oath during an official legal proceeding, court trial, deposition, or in a signed affidavit.
+
+Key Elements of Perjury
+    • Under Oath: The person must have taken a lawful oath or affirmation to tell the truth. 
+    • Intentional Lie: The statement must be a deliberate falsehood made with the intent to deceive, not an honest mistake, confusion, or a lapse in memory. 
+    • Material Fact: The lie must matter to the case; it has to be about a "material" issue that has the potential to influence the outcome of the proceeding. 
+
+Consequences and Penalties
+    • Criminal Charges: Perjury is treated as a serious felony offense in common law systems.
+    • Punishment: Convictions can lead to heavy financial fines, community service, or significant prison sentences—often up to 5 years under federal laws, and varying scales up to 20 years depending on the severity of the underlying case. 
+
+-------------------------------------------------
+## Basic legal terminology cheatsheet
+
+Here is a cheat sheet of essential legal terms broken down by category for quick scanning and easy understanding.
+🏛️ Courtroom & Case Basics
+    • Plaintiff: The person, group, or organization that starts a lawsuit by filing a complaint.
+    • Defendant: The person or entity being sued in a civil case or accused of a crime in a criminal case.
+    • Litigation: The entire process of taking a case through court to resolve a legal dispute.
+    • Jurisdiction: The official power and legal authority of a specific court to hear and decide a case.
+    • Statute of Limitations: The strict legal time limit within which a lawsuit must be filed after an event occurs.
+
+⚖️ Criminal vs. Civil Law
+    • Felony: A serious crime (like burglary or murder) usually punishable by more than one year in prison.
+    • Misdemeanor: A less serious crime (like trespassing or minor theft) usually punishable by fines or short jail stays.
+    • Tort: A wrongful act in civil law that causes harm to someone, leading to legal liability for damages.
+    • Breach of Contract: A failure to fulfill any promise or requirement of a binding legal agreement without a valid legal excuse.
+    • Burden of Proof: The obligation to prove the claims made in a case; it rests on the prosecution in criminal cases and the plaintiff in civil cases.
+
+📝 Evidence & Testimony
+    • Affidavit: A written statement of facts that a person voluntarily signs and swears to be true under oath.
+    • Deposition: Out-of-court oral testimony given under oath by a witness, which is recorded for later use in court.
+    • Hearsay: An out-of-court statement offered by a witness to prove the truth of the matter asserted; it is usually inadmissible.
+    • Subpoena: A formal, legally binding order commanding a person to appear in court or produce specific documents.
+
+🎬 Verdicts & Resolutions
+    • Acquittal: A formal court judgment stating that a criminal defendant is not guilty of the charged offenses.
+    • Injunction: A judicial order that restrains a party from starting or continuing an action, or compels them to do something.
+    • Settlement: An official agreement that ends a dispute and drops the lawsuit before a judge or jury reaches a final verdict.
+    • Appeal: A formal request to a higher court to review, change, or reverse a decision made by a lower court.
+
+
+narrow this down for a specific context, like criminal defense, business contracts, or property law
+
+-------------------------------------------------
+## Cheatsheet Overview
+
+Core Legal Concepts
+    • Law / Statute: A rule or regulation passed by a legislative body.
+    • Contract: A legally binding agreement between parties creating mutual obligations.
+    • Liability: Legal responsibility for acts, omissions, or financial debts.
+    • Negligence: Failure to exercise the care that a reasonably prudent person would.
+
+Courtroom & Procedure
+    • Litigation / Lawsuit: The process of taking legal action through the court system.
+    • Verdict / Judgment: The formal decision made by a judge or jury.
+    • Appeal: A formal application to a higher court to reverse a lower court's decision.
+    • Settlement: An agreement that resolves a dispute before a final verdict is rendered.
+
+Key Figures
+    • Plaintiff: The party who initiates a lawsuit.
+    • Defendant: The party being sued or accused of a crime.
+    • Prosecutor: The government attorney bringing criminal charges.
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+
