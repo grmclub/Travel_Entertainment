@@ -99,6 +99,42 @@ Because most modern slander happens anonymously online, a victim cannot file a c
 
 
 -------------------------------------------------
+## Basic legal terms in japanese with english translations
+
+Here is a list of basic legal terms in Japanese with their English translations. The list is organized by category for easy navigation.
+
+Court and Procedures (裁判・手続き)
+    • 裁判 (Saiban) – Trial / Court case
+    • 訴訟 (Soshō) – Lawsuit / Litigation
+    • 判決 (Hanketsu) – Judgment / Verdict
+    • 上訴 (Jōso) – Appeal
+    • 証拠 (Shōko) – Evidence
+    • 証言 (Shōgen) – Testimony
+    • 和解 (Wakai) – Settlement
+
+People in Court (裁判関係者)
+    • 裁判官 (Saibankan) – Judge
+    • 弁護士 (Bengoshi) – Lawyer / Attorney
+    • 検察官 (Kensatsukan) – Prosecutor
+    • 原告 (Genkoku) – Plaintiff
+    • 被告 (Hikoku) – Defendant (in criminal cases: 被告人 Hikokunin)
+    • 証人 (Shōnin) – Witness
+
+General Legal Concepts (基本法概念)
+    • 法律 (Hōritsu) – Law
+    • 契約 (Keiyaku) – Contract
+    • 権利 (Kenri) – Right
+    • 義務 (Gimu) – Obligation / Duty
+    • 責任 (Sekinin) – Liability / Responsibility
+    • 過失 (Kashitsu) – Negligence
+
+Criminal vs. Civil Law (刑法・民法)
+    • 民事 (Minji) – Civil matter
+    • 刑事 (Keiji) – Criminal matter
+    • 犯罪 (Hanzai) – Crime
+    • 告訴 (Kokuso) – Criminal complaint / Accusation
+    • 損害賠償 (Songai baishō) – Damages / Compensation
+
 -------------------------------------------------
 -------------------------------------------------
 -------------------------------------------------
