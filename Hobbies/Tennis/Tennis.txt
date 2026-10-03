@@ -52,10 +52,19 @@ If you specifically tune in for weekly match breakdowns, Grand Slam recaps, and 
     Tennis Channel //https://www.youtube.com/@TennisChannel/videos
         Why you’ll like it: Offers studio panel debates, official match highlights, player interviews, and segment clips featuring former pros and commentators.
 --------------------------------------------------------------------------------------
+##Technique
 -power 
 -spin
--all round
+-all round footwork
 
+--------------------------------------------------------------------------------------
+##Gear
+Racquets
+Strings
+Shoes
+
+===========================
+--Strings
 16x19
 synthetic gut
 
@@ -65,20 +74,73 @@ https://www.youtube.com/watch?v=C3kJ5b1DcdA&t=285s
 The BEST Tennis Strings for Beginners & Intermediates!! | Rackets & Runners
 https://www.youtube.com/watch?v=EG4hVp6pbsc
 
---------------------------------------------------------------------------------------
-These rackets will help you win!! Aero 98 vs. Vcore 98 vs. Ezone 98 Comparison | Rackets & Runners
-https://www.youtube.com/watch?v=saJk5lFSWhw
-
-They changed a lot... Babolat Pure Aero 100 2026 Racket Review | Rackets & Runners
-https://www.youtube.com/watch?v=0zi7wWkOhNg
-
 Types of Tennis Strings [Detailed Explanation + Examples]
 https://www.youtube.com/watch?v=OflCsTM6y8w
 
 WHAT IS YOUR PERFECT TENNIS STRING TENSION?
 https://www.youtube.com/watch?v=jKVCX7l8tTw
 
+
+===========================
+--Tennis Shoes
+Everything you need to know about Asics Tennis Shoes! Asics Lineup Overview | Rackets & Runners 
+https://www.youtube.com/watch?v=Qh_HHqlQNMg
+
+Men's Court FF3  //Novak
+Men's Gel-Resolution 9
+Men's Solution Speed FF3  --like running shoe. light
+Solution Speed FF4 - Light 
+
+A major update to the Solution Speed! Asics Solution Speed FF4 Review | Rackets & Runners 
+https://www.youtube.com/watch?v=MRF9UfA6MHY&t=308s
+
+These are the BEST court shoes in every category!! | Rackets & Runners 
+https://www.youtube.com/watch?v=aNc2nQPmJ5Q
+
+1. Support & Stability Shoes
+    Asics Court FF [03:44]
+    Asics Gel Resolution 10 [05:17]
+    Diadora B.Icon 3 [06:35]
+
+2. Speed Shoes
+    Mizuno Wave Exceed Tour [08:50]
+    Asics Solution Speed FF 4 [10:13]
+    Diadora Speed Blushield Fly 5 [11:36]
+
+3. High Cushion Shoes
+    New Balance CT Rally v2 [13:20]
+    Wilson Rush Tour [14:36]
+    Mizuno Wave Enforce Tour 2 [15:25]
+
+4. Comfort-Oriented Shoes
+    Wilson Rush Pro [17:01]
+    K-Swiss Hypercourt Express [18:07]
+    Diadora Torneo 3 [18:39]
+
+5. Natural / Grounded Shoes
+    Nike Vapor Pro 12 [20:14]
+    Diadora Torneo 3 [21:11]
+    On The Roger Pro 3 [21:57]
+
+Other Mentioned / Honorable Mentions:
+    Nike GP Turbo [14:15]
+    On The Roger Pro / Roger Pro 2 [22:40]
+===========================
+--Racquets
+These rackets will help you win!! Aero 98 vs. Vcore 98 vs. Ezone 98 Comparison | Rackets & Runners
+https://www.youtube.com/watch?v=saJk5lFSWhw
+
+They changed a lot... Babolat Pure Aero 100 2026 Racket Review | Rackets & Runners
+https://www.youtube.com/watch?v=0zi7wWkOhNg
+
+===========================
+
+
+
+
 --------------------------------------------------------------------------------------
+##Skill & Technique
+
 https://www.youtube.com/@patrickmouratoglou_official/playlists
 
 Tennis Serve Secrets From the Pros
@@ -283,8 +345,6 @@ Key Techniques and Situations:
     -Hitting High Arc Shots with Topspin (9:38 - 13:27): Avoid using just your wrist or elbow to lift the ball" which leads to short shots. Instead" tilt your shoulders (dipping the front shoulder) and finish with a high follow-through using your entire arm to impart spin naturally.
 	
     -Hitting Short Cross-Court Shots (13:27 - 16:24): The secret to a successful short cross-court angle is hitting the ball well in front of your body. This natural path allows the racket to turn toward the cross-court angle without forcing the wrist or elbow.
-
--------------------------------------------------
 
 -------------------------------------------------------------
 -------------------------------------------------------------
