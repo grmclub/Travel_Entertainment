@@ -4,13 +4,28 @@
 -spin
 -all round footwork
 
-##Strokes
+##Strokes_1
 --backhand/forehand
 -drive
 -slice
 -drop shot
 -volley
 -pickup
+
+##Strokes_2
+- one handed backhand
+- two handed backhand
+- volly technique
+- long forehand
+- long backhand
+- short cross
+
+tennis+how+to+increase+accuracy+of+forehands+from+baseline
+-------------------------------------------------------------
+https://www.youtube.com/@patrickmouratoglou_official/videos
+https://www.youtube.com/@IntuitiveTennis
+
+https://www.playyourcourt.com/news/intermediate-tennis-drills/
 
 -------------------------------------------------------------
 One-Handed Backhand Tips For Mastering 5 Tough Tennis Situations 
@@ -29,6 +44,93 @@ Key Techniques and Situations:
     -Hitting High Arc Shots with Topspin (9:38 - 13:27): Avoid using just your wrist or elbow to lift the ball" which leads to short shots. Instead" tilt your shoulders (dipping the front shoulder) and finish with a high follow-through using your entire arm to impart spin naturally.
 	
     -Hitting Short Cross-Court Shots (13:27 - 16:24): The secret to a successful short cross-court angle is hitting the ball well in front of your body. This natural path allows the racket to turn toward the cross-court angle without forcing the wrist or elbow.
+
+-------------------------------------------------
+## tennis+drills+for+beginners 
+
+Here are five essential tennis drills for beginners, grouped by whether you're practicing solo or with a partner.
+Solo Drills
+
+    Self-Feed Drop & Hit
+
+        Focus: Groundstroke mechanics and contact point.
+
+        How to do it: Stand near the baseline or service line. Hold a ball in your non-dominant hand, extend it out to the side, and drop it (don't throw it up). Let it bounce once, then gently swing low-to-high to hit forehands or backhands over the net.
+
+        Goal: Hit 10 consecutive balls into the court without rushing.
+
+    The Wall Rally
+
+        Focus: Consistency, footwork, and reaction timing.
+
+        How to do it: Stand about 10–15 feet away from a practice wall or garage door. Hit a gentle forehand, let the ball bounce once off the ground after rebounding off the wall, and hit it back.
+
+Bouncing Control (Up & Down)
+
+        Focus: Hand-eye coordination and racket face control.
+
+        How to do it: Hold the racket flat. Bounce the ball gently up into the air on your strings continuously without dropping it. Flip the racket over to practice backhand face control, or bounce the ball downward into the court.
+
+        Goal: Reach 50 consecutive bounces without losing control.
+
+Partner Drills
+
+    Short Court Crosscourt Rally
+
+        Focus: Control, depth touch, and sustained rallies.
+
+        How to do it: Both players stand inside the service boxes (short court) diagonally across from each other. Gently rally crosscourt using soft forehands or backhands, aiming to keep the ball inside the service box.
+
+Bucket Catch Volley Drill
+
+        Focus: Net play, quick reaction, and compact volleys without taking a backswing.
+
+        How to do it: Stand at the net while your partner feeds balls slowly from the opposite service line. Instead of swinging, block the ball back gently over the net. Keep your racket face open and turn your shoulders to meet the ball out in front.
+
+Beginner Fundamentals Checklist
+
+    Grip: Use a Continental grip for serve/volleys and an Eastern or Semi-Western grip for forehands.
+
+    Preparation: Turn your shoulders early as soon as you see which side the ball is coming to.
+
+    Footwork: Split-step (a tiny hop on both feet) right as your opponent or feeder contacts the ball.
+-------------------------------------------------
+## tennis+drills+for+intermediates
+
+Intermediate drills shift focus from basic ball control to directional discipline, movement patterns, situational decision-making, and transition play.
+
+Partner Rally & Placement Drills
+    1. Figure-8 Rally Drill
+        ◦ Focus: Directional control, change of direction, and lateral recovery.
+        ◦ How to do it: Player A hits all shots down-the-line, while Player B hits all shots crosscourt. The ball travels in a continuous figure-8 pattern across the net.
+        ◦ Goal: Reach a 15-shot rally, then switch roles so both players practice changing the ball's direction.
+
+
+    2. Deep vs. Short Target Game
+        ◦ Focus: Depth control and recognizing attackable short balls.
+        ◦ How to do it: Start a baseline rally. Player A must keep all balls past the service line (deep). As soon as Player A hits a ball that lands short (inside the service box), Player B steps in to attack with an approach shot and moves to the net to finish the point.
+
+Transition & Net Attack Drills
+    3. Approach, Volley, Overhead Sequence
+        ◦ Focus: Transitioning forward and closing points at the net.
+        ◦ How to do it:
+            1. Partner feeds a short ball near the baseline/service line $\rightarrow$ You hit an approach shot down-the-line and charge the net.
+            2. Partner feeds a high, soft ball $\rightarrow$ You hit a punch volley into the open court.
+            3. Partner feeds a lob $\rightarrow$ You track back and finish with an overhead smash.
+        ◦ Goal: Complete 5 clean sequences in a row without an unforced error.
+    4. Serve & First Ball Target Drill
+        ◦ Focus: First-serve percentage and aggressive second-shot setup.
+        ◦ How to do it: Serve into a specific zone (e.g., wide or T). Target a cone placed deep in the opposite corner for your immediate return-of-serve response. Treat the first two shots as a fixed combination rather than just starting a random rally.
+
+Solo Footwork & Movement Drills
+    5. Cone 'X' Footwork Drill
+        ◦ Focus: Recovery movement, split-stepping, and dynamic balance.
+        ◦ How to do it: Set up 4 cones in an 'X' pattern around the center mark on the baseline. Start at the center, split-step, sprint to cone 1, shadow a forehand, shuffle back to the center, split-step, and move to cone 2. Repeat for backhands and back-pedal recovery.
+
+Key Focus Areas for Intermediates
+    • Targeting: Aim for 3 feet over the net and 3 feet inside the baselines/sidelines rather than painting lines.
+    • Movement: Always split-step as your opponent contacts the ball, and recover to the center mark immediately after hitting.
+    • Spin Control: Incorporate heavy topspin to push opponents back and slice to keep ball bounce low on approach shots.
 
 -------------------------------------------------
 -------------------------------------------------
